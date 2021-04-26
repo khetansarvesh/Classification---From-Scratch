@@ -14,6 +14,8 @@ Please refer to the following link to refer to the code implementatiion
 
 #################Analying the results obtained - Report
 
+Showing the intersection point of the normal distribution of both 1D projected data and also showing the 1D discriminant vector
+
 ## 4. Logistic Regression
 
 ## 5. Naive Bayes
