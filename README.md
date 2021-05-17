@@ -5,13 +5,6 @@ We will be using following dataset of dimensions (a*b)
 
 
 ## 1. LDA
-Here we will reduce the higher dimensional data to one dimensional data while maximixing the difference of the means and minimizing the sum of variances of the clusteres.For understanding the complete theory of the algorithm please refer to following links in the sequence in which it has been given.
-
-Please refer to the following link to refer to the code implementatiion 
-
-#################Analying the results obtained - Report
-
-Showing the intersection point of the normal distribution of both 1D projected data and also showing the 1D discriminant vector
 
 ## 2. Logistic Regression
 
