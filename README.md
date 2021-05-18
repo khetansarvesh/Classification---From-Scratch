@@ -14,7 +14,3 @@ In this assignment we will be implementing several classification algorithms fro
   https://github.com/khetansarvesh/Spam_Mail_Detection--From_Scratch
 
   ## 4. ANN
-
-  Following algorithms have been implemented to perform multi class classification
-
-  ## 1. ANN
