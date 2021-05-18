@@ -8,6 +8,8 @@ In this assignment we will be implementing several classification algorithms fro
 ## 3. Naive Bayes
 please refer to following link to access this project where I have solve a spam mail detection problem which is a classificatoin problem using naive bayes algorithm and here i have implemented naive bayes algorithms from complete scratch without using any sklearn or other equivalent ML library
 
+https://github.com/khetansarvesh/Spam_Mail_Detection--From_Scratch
+
 ## 4. ANN
 
 We will also be seeing algorithms to do multi class classification
