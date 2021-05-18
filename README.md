@@ -1,6 +1,7 @@
 # Classification---From-Scratch
-In this assignment we will be implementing several classification algorithms from scratch i.e. not use any libraries and create our own libraries then we compare our results with the results obtained when we use library and see how efficiently we have implemented our own library
+In this assignment we will be implementing several classification algorithms from scratch i.e. not use any libraries and create our own libraries then we compare our results with the results obtained when we use library and see how efficiently we have implemented our own library.
 
+Following algorithms have been implemented to perform binary class classification
 ## 1. LDA
 Please refer to the pdf uploaded above named 'Linear Discriminant Analysis (LDA)' to get access to all my notes and the code implementation of this algorithms
 
@@ -14,5 +15,6 @@ https://github.com/khetansarvesh/Spam_Mail_Detection--From_Scratch
 
 ## 4. ANN
 
-We will also be seeing algorithms to do multi class classification
-1. ANN
+Following algorithms have been implemented to perform multi class classification
+
+## 1. ANN
