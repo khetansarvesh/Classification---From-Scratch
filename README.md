@@ -6,6 +6,7 @@ In this assignment we will be implementing several classification algorithms fro
 ## 2. Logistic Regression
 
 ## 3. Naive Bayes
+please refer to following link to access this project where I have solve a spam mail detection problem which is a classificatoin problem using naive bayes algorithm and here i have implemented naive bayes algorithms from complete scratch without using any sklearn or other equivalent ML library
 
 ## 4. ANN
 
