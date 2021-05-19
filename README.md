@@ -13,4 +13,6 @@ In this assignment we will be implementing several classification algorithms fro
   https://github.com/khetansarvesh/Spam_Mail_Detection--From_Scratch
 
   ## 4. Artificial Neural Network (ANN)
-  Please refer to following link for entire code implementation - 
+  Dataset can be found at following link : https://drive.google.com/file/d/1WA45oguNvTvWYJgCxRdq6vUdlmM57psl/view?usp=sharing
+  
+  Please refer to following link for entire code implementation : https://colab.research.google.com/drive/1pfROS2lbTmh0sEC0T8IMyQJiIdsRBcAJ?usp=sharing
