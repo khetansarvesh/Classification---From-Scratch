@@ -8,7 +8,7 @@ In this project, I have implemented several classification algorithms from scrat
   Please refer to the pdf uploaded above named 'Logistic Regression (LR)' to get access to all my notes and the code implementation of this algorithms
 
   ## 3. Naive Bayes (NB)
-  Please refer to following link to access this project where I have solve a spam mail detection problem which is a classificatoin problem using naive bayes algorithm and here i     have implemented naive bayes algorithms from complete scratch without using any sklearn or other equivalent ML library
+  Please refer to following link to access this project where I have solved a spam mail detection problem which is a classificatoin problem using naive bayes algorithm and here I     have implemented naive bayes algorithms from complete scratch without using any sklearn or other equivalent ML library
 
   https://github.com/khetansarvesh/Spam_Mail_Detection--From_Scratch
 
