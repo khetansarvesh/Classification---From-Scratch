@@ -1,5 +1,5 @@
 # Classification---From-Scratch
-In this assignment we will be implementing several classification algorithms from scratch i.e. not use any libraries and create our own libraries then we compare our results with the results obtained when we use library and see how efficiently we have implemented our own library.
+In this project we will be implementing several classification algorithms from scratch i.e. not use any libraries and create our own libraries then we compare our results with the results obtained when we use library and see how efficiently we have implemented our own library.
 
   ## 1. Linear Discriminant Analysis (LDA)
   Please refer to the pdf uploaded above named 'Linear Discriminant Analysis (LDA)' to get access to all my notes and the code implementation of this algorithms
