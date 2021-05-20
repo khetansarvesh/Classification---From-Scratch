@@ -20,5 +20,5 @@ In this project, I have implemented several classification algorithms from scrat
   
   Please refer to following link for entire code implementation : https://colab.research.google.com/drive/1pfROS2lbTmh0sEC0T8IMyQJiIdsRBcAJ?usp=sharing
 
-## 5. Decision Trees 
+## 5. Decision Trees (DTs)
 On going ...
