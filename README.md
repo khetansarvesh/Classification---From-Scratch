@@ -19,6 +19,3 @@ In this project, I have implemented several classification algorithms from scrat
   Dataset can be found at following link : https://drive.google.com/file/d/1WA45oguNvTvWYJgCxRdq6vUdlmM57psl/view?usp=sharing
   
   Please refer to following link for entire code implementation : https://colab.research.google.com/drive/1pfROS2lbTmh0sEC0T8IMyQJiIdsRBcAJ?usp=sharing
-
-## 5. Decision Trees (DTs)
-On going ...
