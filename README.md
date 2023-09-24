@@ -18,15 +18,22 @@ In this project, I have implemented several classification algorithms from scrat
   
   
   ## 2. Logistic Regression (LR)
-  This project teaches us how actually the multiple Fisher’s Linear Discriminant Analysis (FLDA) (also called simply as linear discriminant analysis (LDA)) algorithm is used to solve the classification problem and how 
-  it is written in the sklearn library and the indepth mathematical intuition behind this algorithm because i have implemented this algorithm from scratch
+  This project teaches us how actually logistic regression algorithm is used to solve classification problems and how it is written in the sklearn library and the indepth mathematical intuition behind this algorithm 
+  because I have implemented this algorithm from scratch.
 
-  The entire theory for the implementation can be understood by referring to my notes at following link (recommended as must read) : https://drive.google.com/drive/folders/1iXqW0q5vK3k1nb-agum3JACXigii7xCB?usp=sharing
+  The entire theory for the implementation of can be understood by referring to my notes at following link (recommended as must read) :
+  https://drive.google.com/drive/folders/1M9TUIqTUfHXr-YdaDzDNchCqjjTHYZQL?usp=sharing
+  
+  The dataset used can be found at this link :
+  https://drive.google.com/file/d/1Zsq9EaBKmHXCNHAYmVJyPyanmlJ8FuVL/view?usp=sharing
 
-  The dataset used can be found at this link : https://drive.google.com/file/d/13YiTLBijscuQuIS2OvandXh5C_iJ-DxK/view?usp=sharing
-
-  The code for the implementation from scratch can be found at following link (open with google colab). Please refer to the pdf above named 'Logistic Regression (LR)' to understand code design and result 
-  analysis. : https://drive.google.com/file/d/1b57Ou99mVODOK9YEPrwfYKamgnXc1ek6/view?usp=sharing
+  By reading the theory you might have understood that ultimately the algorithm reduces to solving a convex unconstrained nonlinear optimization problem and we know there are several ways to solve this optimization 
+  problem problem so here we will be solving this optimization problem via these methods from scratch:
+  1. Gradient Descent
+  2. Stochastic Gradient Descent
+   
+  The code for the implementation from scratch can be found at following link (open with google colab). Please refer to the pdf above named 'Logistic Regression (LR)' to understand code design and result analysis : 
+  https://drive.google.com/file/d/1J1k48HqeuUGv13w-RyXube0h30sNpcS5/view?usp=sharing
   
   ## 3. Artificial Neural Network (ANN)
   
